@@ -1,6 +1,5 @@
-# client2.zhijia.io
-
-> A Vue.js project
+# daily.reaidea.com
+> A Vue.js project [daily.reaidea.com](http://daily.reaidea.com)
 
 ## Build Setup
 
